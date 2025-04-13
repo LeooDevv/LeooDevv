@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Leonardo Rodrigues!</h1>
 
-<p align="center">🚀 Desenvolvedor em formação | 💻 Apaixonado por tecnologia | 🎯 Em constante evolução</p>
+<p align="center">🚀 Engenheiro da computação em formação | 💻 Apaixonado por tecnologia | 🎯 Em constante evolução</p>
 
 <p align="center">Esse GitHub é novo... mas cheio de potencial! 😄</p>
 
